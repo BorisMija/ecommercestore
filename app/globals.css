@@ -2,7 +2,15 @@
 
 html,
 body,
-:root {
+root {
   height: 100%;
-  
+}
+
+
+.backdrop-overlay {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.mobile-backdrop {
+  background-color: rgba(0, 0, 0, 0.25) !important;
 }
