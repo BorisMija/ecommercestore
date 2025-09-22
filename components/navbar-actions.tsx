@@ -29,7 +29,6 @@ const NavbarActions = () => {
 
         
             </Button>
-            Hello Actions
         </div>
     );
 }
