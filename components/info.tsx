@@ -46,6 +46,6 @@ const Info = ({
       </div>
     </div>
   );
-};//njhghgdfxgfvjb
+};
 
 export default Info;

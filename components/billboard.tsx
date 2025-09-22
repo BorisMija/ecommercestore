@@ -24,6 +24,6 @@ const Billboard: React.FC<BillboardProps> = ({
             </div>
         </div>
     );
-} //klkjhgfgh
+} 
 
 export default Billboard;
