@@ -36,6 +36,6 @@ const Gallery: React.FC<GalleryProps> = ({ images }) => {
       </Tab.Panels>
     </Tab.Group>
   );
-};
+}; 
 
 export default Gallery;
